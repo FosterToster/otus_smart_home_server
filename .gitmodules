@@ -1,0 +1,3 @@
+[submodule "smart_home"]
+	path = smart_home
+	url = https://github.com/FosterToster/otus_smart_home.git
