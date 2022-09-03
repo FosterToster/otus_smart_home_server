@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 smart_home = {path="../smart_home"}
+actix-web = "4"
+serde = { version = "*", features = ["derive"] }
+thiserror = "*"
